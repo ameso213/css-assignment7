@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+
+}
+.row-container{
+    display: flex;
+    gap: 2rem;font-weight: 600;
+    font-size: 30px;
+    text-align: center;
+    position: relative;left: 20%;right: 20%;
+    color: orangered;
+    
+    padding-right: 50px;
+    padding-left: 50px;
+    cursor: pointer;
+    margin-left: 5px;
+    margin-right: 100px;
+
+
+
+
+}
+body{
+    background-color:lightseagreen;
+}
+a:hover{
+    color: white;
+}
